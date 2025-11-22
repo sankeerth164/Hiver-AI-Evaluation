@@ -1,5 +1,7 @@
 # Hiver AI Evaluation Dashboard
 
+**Live Demo**: [https://hiver-ai-evaluation.vercel.app/](https://hiver-ai-evaluation.vercel.app/)
+
 An interactive Next.js application demonstrating three AI/ML evaluation tasks:
 - **Part A**: Customer-specific email tagging with isolation
 - **Part B**: Sentiment analysis prompt evaluation
