@@ -75,6 +75,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 - **[Part A Documentation](./PART_A_README.md)**: Email tagging approach, customer isolation, and improvement ideas
 - **[Part B Report](./PART_B_REPORT.md)**: Sentiment analysis prompt evaluation and systematic evaluation guide
 - **[Part C Improvements](./PART_C_RAG_IMPROVEMENTS.md)**: RAG retrieval improvements and failure case analysis
+- **[Architecture](./ARCHITECTURE.md)**: System architecture diagrams and design decisions
 
 ## Technology Stack
 
